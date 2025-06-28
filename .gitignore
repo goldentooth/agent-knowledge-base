@@ -1,0 +1,12 @@
+# Vector database (too large for Git)
+embeddings.db
+embeddings.db-*
+
+# Cache files
+*.pyc
+__pycache__/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
