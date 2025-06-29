@@ -4,27 +4,27 @@
   "dimensions": 768,
   "embeddings": {
     "github.orgs.bitterbridge": {
-      "checksum": "6911633bb9ec78624d1ae3e6e40c632d19e37d7f10281154963f7c606d2c2f01",
-      "created_at": "2025-06-29T00:31:06.527323",
+      "checksum": "7e88e4ce835ed9ed69620764dc3ef6e67b980180daf1997ec58b06b0bab778bb",
+      "created_at": "2025-06-29T01:09:18.708165",
       "document_id": "bitterbridge",
       "file": "github/orgs/bitterbridge.emb.gz",
-      "file_size": 2917,
+      "file_size": 2900,
       "store_type": "github.orgs"
     },
     "github.orgs.goldentooth": {
-      "checksum": "abcd9a06874c7d583f561e242e5be7f01689eb4a0f5a6a1698c460a47e2c73bf",
-      "created_at": "2025-06-29T00:26:03.826548",
+      "checksum": "524b93284de6a6d781578e5aa955049586093aa50aa6d8df47f4158ad7eb1c92",
+      "created_at": "2025-06-29T01:09:22.343445",
       "document_id": "goldentooth",
       "file": "github/orgs/goldentooth.emb.gz",
-      "file_size": 2919,
+      "file_size": 2917,
       "store_type": "github.orgs"
     },
     "github.orgs.hellholt": {
-      "checksum": "dcd78966928474b1515146e70d1719987ed34aad7412c957d11224e5b027ae4c",
-      "created_at": "2025-06-29T00:32:20.457598",
+      "checksum": "e93e45e24bdb27a1c2111216c2a861aca0d98710efa35d30b427811e38e430b8",
+      "created_at": "2025-06-29T01:09:15.830691",
       "document_id": "hellholt",
       "file": "github/orgs/hellholt.emb.gz",
-      "file_size": 2914,
+      "file_size": 2916,
       "store_type": "github.orgs"
     },
     "github.repos.bitterbridge_.github": {
@@ -116,163 +116,163 @@
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_.github": {
-      "checksum": "7fc05713ceb69030ef4760718044a55b4bc5bfce33e8c56b6be3d290d5ea996d",
-      "created_at": "2025-06-29T00:27:07.584994",
+      "checksum": "a1ebfa9345c57bc08aaf738b406bc426169878e9db552123ca3830bad8523eee",
+      "created_at": "2025-06-29T09:29:17.322647",
       "document_id": "goldentooth_.github",
       "file": "github/repos/goldentooth_.github.emb.gz",
-      "file_size": 2914,
+      "file_size": 2924,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_agent": {
-      "checksum": "36378084ada03293f00f82e38b62d95546ae5b210caa01f167d6a279c857988d",
-      "created_at": "2025-06-29T00:26:33.000429",
+      "checksum": "1d9236a24c20101dc49a287f22522257c810cd3bd01172bcfa85d47749cba123",
+      "created_at": "2025-06-29T09:29:17.324801",
       "document_id": "goldentooth_agent",
       "file": "github/repos/goldentooth_agent.emb.gz",
-      "file_size": 2913,
+      "file_size": 2920,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_ansible": {
-      "checksum": "e8d78486584056c1a03597d857afa35a75b195f5158d8cc6218bf0beb7dd0e0c",
-      "created_at": "2025-06-29T00:27:10.844008",
+      "checksum": "9f6f86dcf8a105bf79ca5ffb95c8792e8a0ac90f648c11a437dfa89d175bc162",
+      "created_at": "2025-06-29T09:29:17.326217",
       "document_id": "goldentooth_ansible",
       "file": "github/repos/goldentooth_ansible.emb.gz",
-      "file_size": 2915,
+      "file_size": 2916,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_asoiaf_noble_house_images": {
-      "checksum": "7f4ada2a0a8f6f88abb8a0bf896aa148b8b654168c550924f146cbf706abb6c2",
-      "created_at": "2025-06-29T00:26:53.523065",
+      "checksum": "6bcb10310b6f7024fa35f1f9b734b015bda9f7e214f750ff40bd7dd3161fad2f",
+      "created_at": "2025-06-29T09:29:17.327288",
       "document_id": "goldentooth_asoiaf_noble_house_images",
       "file": "github/repos/goldentooth_asoiaf_noble_house_images.emb.gz",
-      "file_size": 2910,
+      "file_size": 2918,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_bash": {
-      "checksum": "cfa44869d30d32aa40fc74ca25d645d001f4c7382fdfa38cdfcadb2e0f343ae8",
-      "created_at": "2025-06-29T00:27:17.918776",
+      "checksum": "1310de3956bfdb85a7cf15935f9c32fb913fbaeea3c5f683f9a158343a9280ee",
+      "created_at": "2025-06-29T09:29:17.328450",
       "document_id": "goldentooth_bash",
       "file": "github/repos/goldentooth_bash.emb.gz",
-      "file_size": 2910,
+      "file_size": 2912,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_clog": {
-      "checksum": "8157826fa8f48483eab04587d04efbd78bfeb57d32ca49c9f14119feacb71ddc",
-      "created_at": "2025-06-29T00:27:28.094971",
+      "checksum": "7a0dd7f2afb0151e379474d321936e581e99e1983789aee8c6d6e4324254ed40",
+      "created_at": "2025-06-29T09:29:17.329523",
       "document_id": "goldentooth_clog",
       "file": "github/repos/goldentooth_clog.emb.gz",
       "file_size": 2914,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_external_dns": {
-      "checksum": "5d35c8a84990f60f0aad7bfe19ca8f0115229c44e35534aeb014e791fd634971",
-      "created_at": "2025-06-29T00:26:56.559993",
+      "checksum": "00480482a8acc68ddf17399e2f19cd40dfcfdd73ad766c8b09422fe6bf0002f0",
+      "created_at": "2025-06-29T09:29:17.330504",
       "document_id": "goldentooth_external_dns",
       "file": "github/repos/goldentooth_external_dns.emb.gz",
-      "file_size": 2920,
+      "file_size": 2918,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_external_secrets": {
-      "checksum": "810d6e3c487e879d5d76c81f64c03c07d3b1fe5b850e1860a3a87ae5b1e6f307",
-      "created_at": "2025-06-29T00:26:22.984695",
+      "checksum": "c5bcac0dc283cfcee25297b6dee30e864fe07146facbbe6d8ddb1bce84f888e7",
+      "created_at": "2025-06-29T09:29:17.332440",
       "document_id": "goldentooth_external_secrets",
       "file": "github/repos/goldentooth_external_secrets.emb.gz",
-      "file_size": 2919,
+      "file_size": 2908,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_flags": {
-      "checksum": "cd01f65a0f88e6b8e307284fccaeb05b599e815f0f157bc68f519bb5d4fdcc3a",
-      "created_at": "2025-06-29T00:27:03.932195",
+      "checksum": "aec8a44638e2ff891d169838ad9499d8e00445113d9611f78143abaab478443e",
+      "created_at": "2025-06-29T09:29:17.334072",
       "document_id": "goldentooth_flags",
       "file": "github/repos/goldentooth_flags.emb.gz",
-      "file_size": 2899,
+      "file_size": 2905,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_flood": {
-      "checksum": "5d6d6b28dba8d1567088a5b0d2cc026e80806cfa04d776e07bf69f4a3fafdb29",
-      "created_at": "2025-06-29T00:27:00.642934",
+      "checksum": "d7d323f9c28864ad9b9d24ac1b577a5bbbc5bcfb228c5fb6c05c51b77231bc09",
+      "created_at": "2025-06-29T09:29:17.335161",
       "document_id": "goldentooth_flood",
       "file": "github/repos/goldentooth_flood.emb.gz",
-      "file_size": 2902,
+      "file_size": 2912,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_gitops_template": {
-      "checksum": "a761df6467e3f3a2b4848258936e2f4275c19c63c03ed9b54318383cb20f7b55",
-      "created_at": "2025-06-29T00:26:50.549294",
+      "checksum": "39f6611569265d2386be5f74e0b10e3dc13875b435853ffcc2a12d3997c17023",
+      "created_at": "2025-06-29T09:29:17.336134",
       "document_id": "goldentooth_gitops_template",
       "file": "github/repos/goldentooth_gitops_template.emb.gz",
-      "file_size": 2915,
+      "file_size": 2918,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_grafana_dashboards": {
-      "checksum": "086b631c85129e4f6092c92bd474c23de66a60598839d2d398e294030ed59b3a",
-      "created_at": "2025-06-29T00:26:39.977523",
+      "checksum": "c56a00604007f53293b032e195b44f37ca6a97bf8cf9bbee491bed9b4e658a2a",
+      "created_at": "2025-06-29T09:29:17.337084",
       "document_id": "goldentooth_grafana_dashboards",
       "file": "github/repos/goldentooth_grafana_dashboards.emb.gz",
       "file_size": 2921,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_httpbin": {
-      "checksum": "43869dd9ea601f7c05605f68016944d6b329134743d40a3bea97a067184f08a4",
-      "created_at": "2025-06-29T00:26:29.839878",
+      "checksum": "f8cc99a73fa6cd8eec9d937818822f48ef4c995a34e217b7527686cc9ddf1bf1",
+      "created_at": "2025-06-29T09:29:17.338025",
       "document_id": "goldentooth_httpbin",
       "file": "github/repos/goldentooth_httpbin.emb.gz",
-      "file_size": 2908,
+      "file_size": 2910,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_metallb": {
-      "checksum": "171ee91285b877ce6903b1b5ae20ffb33ba954b4d2389d02848928c923f25890",
-      "created_at": "2025-06-29T00:26:36.442747",
+      "checksum": "3108debc892cb82c9707aac03f072d99a9e288f4415236620d3a2eea75309d6f",
+      "created_at": "2025-06-29T09:29:17.339417",
       "document_id": "goldentooth_metallb",
       "file": "github/repos/goldentooth_metallb.emb.gz",
-      "file_size": 2912,
+      "file_size": 2905,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_prometheus_node_exporter": {
-      "checksum": "e9b5e653a54534f4675736613266faf54e3f83d2129f28062a5d7f73253c6135",
-      "created_at": "2025-06-29T00:27:25.212708",
+      "checksum": "6fa7f8f3737f33d4ac55bf56064ff002f83cd29633d727877131f0be1efaab8b",
+      "created_at": "2025-06-29T09:29:17.340775",
       "document_id": "goldentooth_prometheus_node_exporter",
       "file": "github/repos/goldentooth_prometheus_node_exporter.emb.gz",
-      "file_size": 2912,
+      "file_size": 2915,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_pulse": {
-      "checksum": "7700f9dacca18ee4d6478f18f6b77384d671140e76c980e9424cc89cfb2a43a0",
-      "created_at": "2025-06-29T00:26:26.396585",
+      "checksum": "db6838ba600cc43e4e09eaeda1dee102aef8f35d4999d8919dea57284f28fbee",
+      "created_at": "2025-06-29T09:29:17.341735",
       "document_id": "goldentooth_pulse",
       "file": "github/repos/goldentooth_pulse.emb.gz",
-      "file_size": 2911,
+      "file_size": 2909,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_roadmap": {
-      "checksum": "bb604fe673210e2b301203341c67a8f89120d8c88ba09fe87ce4a1a9e323b27e",
-      "created_at": "2025-06-29T00:26:46.641223",
+      "checksum": "02daa9eeb0ff769d2dbe2853a06aa402ed96594a021b2dff0edb94680baefa2c",
+      "created_at": "2025-06-29T09:29:17.342690",
       "document_id": "goldentooth_roadmap",
       "file": "github/repos/goldentooth_roadmap.emb.gz",
-      "file_size": 2914,
+      "file_size": 2912,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_sealed_secrets": {
-      "checksum": "95e2df69893b55847d9b258da39e5c6272345ddd9bcbcb718e631986353c4eea",
-      "created_at": "2025-06-29T00:27:14.571841",
+      "checksum": "7ed53684ec9e06aab2f731289b186916e166d75a4146561275ab2175095197f6",
+      "created_at": "2025-06-29T09:29:17.344200",
       "document_id": "goldentooth_sealed_secrets",
       "file": "github/repos/goldentooth_sealed_secrets.emb.gz",
-      "file_size": 2917,
+      "file_size": 2912,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_terraform": {
-      "checksum": "c5cfb6e7f42fa8847de4ca27e3613338135092dda82a7251b1aa823c4031e487",
-      "created_at": "2025-06-29T00:26:43.575247",
+      "checksum": "aa7c96518a58e3958b7889d3947f0634e1c7219103cb148c15329fd0c062a4c3",
+      "created_at": "2025-06-29T09:29:17.345535",
       "document_id": "goldentooth_terraform",
       "file": "github/repos/goldentooth_terraform.emb.gz",
-      "file_size": 2910,
+      "file_size": 2908,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_whispers": {
-      "checksum": "da24e4286272b365a95db8f504748a1351e3ec8642edc8557121110fb7045eac",
-      "created_at": "2025-06-29T00:27:21.258602",
+      "checksum": "28fb0071315ff050976f64878f59e1264f4a8c9842f10754895f11c92148dd47",
+      "created_at": "2025-06-29T09:29:17.346517",
       "document_id": "goldentooth_whispers",
       "file": "github/repos/goldentooth_whispers.emb.gz",
-      "file_size": 2910,
+      "file_size": 2915,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_.github": {
@@ -409,6 +409,38 @@
       "document_id": "github_integration",
       "file": "notes/github_integration.emb.gz",
       "file_size": 2929,
+      "store_type": "notes"
+    },
+    "notes.notes.github_integration.section1": {
+      "checksum": "1c15d98491b872d5ff3c6bb922280fc1305374d0e5a1053f94d4da9aa8ab1c58",
+      "created_at": "2025-06-29T01:09:44.631803",
+      "document_id": "notes.github_integration.section1",
+      "file": "notes/notes.github_integration.section1.emb.gz",
+      "file_size": 2912,
+      "store_type": "notes"
+    },
+    "notes.notes.github_integration.section2": {
+      "checksum": "0a7c17e13bc082928c6381d764bb0de0d1ab148429c8c404d65540c3b1c76080",
+      "created_at": "2025-06-29T01:09:44.632488",
+      "document_id": "notes.github_integration.section2",
+      "file": "notes/notes.github_integration.section2.emb.gz",
+      "file_size": 2921,
+      "store_type": "notes"
+    },
+    "notes.notes.github_integration.section3": {
+      "checksum": "20ba5eb4484da6045bb99b9aa0e182f39358bafa85c04d0794e60ce377733443",
+      "created_at": "2025-06-29T01:09:44.633620",
+      "document_id": "notes.github_integration.section3",
+      "file": "notes/notes.github_integration.section3.emb.gz",
+      "file_size": 2912,
+      "store_type": "notes"
+    },
+    "notes.notes.github_integration.section4": {
+      "checksum": "4b94e1080a167354c3a2121a069fd7e2074505007bad9e56ca23554958d6a227",
+      "created_at": "2025-06-29T01:09:44.634669",
+      "document_id": "notes.github_integration.section4",
+      "file": "notes/notes.github_integration.section4.emb.gz",
+      "file_size": 2914,
       "store_type": "notes"
     },
     "test_store.test_doc": {
