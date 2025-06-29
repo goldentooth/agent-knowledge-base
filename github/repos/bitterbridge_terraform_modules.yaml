@@ -1,0 +1,24 @@
+clone_url: https://github.com/bitterbridge/terraform-modules.git
+created_at: '2025-05-03T17:37:29+00:00'
+default_branch: main
+description: Reusable Terraform modules for various projects
+forks: 0
+full_name: bitterbridge/terraform-modules
+id: bitterbridge/terraform-modules
+is_archived: false
+is_fork: false
+is_private: false
+language: HCL
+languages:
+- HCL
+last_synced: '2025-06-29T00:31:01.623305'
+name: terraform-modules
+open_issues: 1
+priority: medium
+pushed_at: '2025-06-27T09:40:36+00:00'
+rag_include: true
+size_kb: 167
+stars: 0
+topics: []
+updated_at: '2025-06-27T09:40:08+00:00'
+url: https://github.com/bitterbridge/terraform-modules
