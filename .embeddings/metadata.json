@@ -1,455 +1,1575 @@
 {
   "compression": "gzip",
-  "created_at": "2025-06-28T21:33:35.302357",
+  "created_at": "2025-06-29T12:06:44.610206",
   "dimensions": 768,
   "embeddings": {
     "github.orgs.bitterbridge": {
-      "checksum": "7e88e4ce835ed9ed69620764dc3ef6e67b980180daf1997ec58b06b0bab778bb",
-      "created_at": "2025-06-29T01:09:18.708165",
+      "checksum": "8c5d10e6de0f7aaec539b451bee2b6734c4e92e84b862523385cd41edb1ef99b",
+      "created_at": "2025-06-29T12:09:02.036787",
       "document_id": "bitterbridge",
       "file": "github/orgs/bitterbridge.emb.gz",
-      "file_size": 2900,
+      "file_size": 5235,
       "store_type": "github.orgs"
     },
     "github.orgs.goldentooth": {
-      "checksum": "524b93284de6a6d781578e5aa955049586093aa50aa6d8df47f4158ad7eb1c92",
-      "created_at": "2025-06-29T01:09:22.343445",
+      "checksum": "738ae0b519b75a9ced40c4ed7ff141ed9a0c9b85dec311b1264d50c2abacd8f8",
+      "created_at": "2025-06-29T12:09:02.191973",
       "document_id": "goldentooth",
       "file": "github/orgs/goldentooth.emb.gz",
-      "file_size": 2917,
+      "file_size": 5246,
       "store_type": "github.orgs"
     },
     "github.orgs.hellholt": {
-      "checksum": "e93e45e24bdb27a1c2111216c2a861aca0d98710efa35d30b427811e38e430b8",
-      "created_at": "2025-06-29T01:09:15.830691",
+      "checksum": "360ecc4bf709f20032143ed197177ea130a5995f0aa3f46228954037fe4723a2",
+      "created_at": "2025-06-29T12:09:01.857078",
       "document_id": "hellholt",
       "file": "github/orgs/hellholt.emb.gz",
-      "file_size": 2916,
+      "file_size": 5257,
       "store_type": "github.orgs"
     },
     "github.repos.bitterbridge_.github": {
-      "checksum": "db6b684305ad7e85d8e725479dc35039fb4825ee55b217fb8602acf35dabe1f6",
-      "created_at": "2025-06-29T00:31:39.257660",
+      "checksum": "8e388020153dd839c3af138a3f2fb8cb63c078f82b18b305bedb4d38146849fb",
+      "created_at": "2025-06-29T12:09:15.632941",
       "document_id": "bitterbridge_.github",
       "file": "github/repos/bitterbridge_.github.emb.gz",
-      "file_size": 2912,
+      "file_size": 5254,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_blackpool": {
-      "checksum": "6ef6390f78f3c09dc4c269c13a2af2f6d103052d2d4410178c761920662ecffb",
-      "created_at": "2025-06-29T00:31:10.005802",
+      "checksum": "11b73e5b4d2cd724280945273c80ddd64bef493066002bd7d9593bda0d84c390",
+      "created_at": "2025-06-29T12:09:03.013033",
       "document_id": "bitterbridge_blackpool",
       "file": "github/repos/bitterbridge_blackpool.emb.gz",
-      "file_size": 2909,
+      "file_size": 5250,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_distillation": {
-      "checksum": "61a9fd2f7ae88d0e944965a7eeb2ba4936d434aa64d312b3148660004ea90892",
-      "created_at": "2025-06-29T00:31:13.682405",
+      "checksum": "acece905a41c7e74370ef9d2c2a1d51178b932650f0f7de7c6abe86ae3303ad2",
+      "created_at": "2025-06-29T12:09:04.120195",
       "document_id": "bitterbridge_distillation",
       "file": "github/repos/bitterbridge_distillation.emb.gz",
-      "file_size": 2908,
+      "file_size": 5268,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_github_actions": {
-      "checksum": "e2482c272845ecd0d1f313ab40fae7d339d37b8f26cd172a863b6c2f16246980",
-      "created_at": "2025-06-29T00:31:46.913683",
+      "checksum": "9ab1049e6801a06d372e2d11d681574d297f2a13bce360bf3a534d75228c4a8f",
+      "created_at": "2025-06-29T12:09:22.476813",
       "document_id": "bitterbridge_github_actions",
       "file": "github/repos/bitterbridge_github_actions.emb.gz",
-      "file_size": 2903,
+      "file_size": 5224,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_linear_regression": {
-      "checksum": "918a02afbad9f515ab66fdb0f44d847656fd64b76593abfed50511d20ea9521d",
-      "created_at": "2025-06-29T00:31:35.556745",
+      "checksum": "bcd18965043c3716e137cf97fdf5669b0757e0398470182763b326abb544c794",
+      "created_at": "2025-06-29T12:09:14.200438",
       "document_id": "bitterbridge_linear_regression",
       "file": "github/repos/bitterbridge_linear_regression.emb.gz",
-      "file_size": 2912,
+      "file_size": 5264,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_mips_sudoku_solver": {
-      "checksum": "13d6864c3836cb1591821ef99f8e0803dde2b591e4bdf91ee1dccb577f139965",
-      "created_at": "2025-06-29T00:31:20.543648",
+      "checksum": "3b38ee9dd56f0c1a646e614cec7227dfd66427908b5242f89eea85446f383bfc",
+      "created_at": "2025-06-29T12:09:07.025331",
       "document_id": "bitterbridge_mips_sudoku_solver",
       "file": "github/repos/bitterbridge_mips_sudoku_solver.emb.gz",
-      "file_size": 2905,
+      "file_size": 5249,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_resume": {
-      "checksum": "4f8aefaa176fb36f6d24498613f0b3d02a999fffc9b6bc4afc985868649e5b37",
-      "created_at": "2025-06-29T00:31:27.927385",
+      "checksum": "1cb9c2063269034fbb36c6a4cedfa51ee7d39448952f0e0e67edb86cf971417e",
+      "created_at": "2025-06-29T12:09:09.812838",
       "document_id": "bitterbridge_resume",
       "file": "github/repos/bitterbridge_resume.emb.gz",
-      "file_size": 2901,
+      "file_size": 5257,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_terraform": {
-      "checksum": "705859d32d601483b7547946835866499fdac4b5c64692dea7945a83a614d0b2",
-      "created_at": "2025-06-29T00:31:31.772555",
+      "checksum": "0987790e3ab3ec0d47b6199f54f4305f07f9f56418a4ce42545a30b1aa2b3216",
+      "created_at": "2025-06-29T12:09:10.223407",
       "document_id": "bitterbridge_terraform",
       "file": "github/repos/bitterbridge_terraform.emb.gz",
-      "file_size": 2915,
+      "file_size": 5245,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_terraform_modules": {
-      "checksum": "22e75b4bc0fd9dbfe5f0b9c1ccadbc0dfc7911a095f8eee39c522b4cef738e79",
-      "created_at": "2025-06-29T00:31:42.983292",
+      "checksum": "daaacf3b227c078be699159a13d3bda97ba60904b622cfa136bce952369dd890",
+      "created_at": "2025-06-29T12:09:18.181157",
       "document_id": "bitterbridge_terraform_modules",
       "file": "github/repos/bitterbridge_terraform_modules.emb.gz",
-      "file_size": 2910,
+      "file_size": 5271,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_unity_hashing_grid": {
-      "checksum": "0299768f134e96e06abb662f4b037cbf2415d67abba4d17e4ab8b1e1b4aa04c2",
-      "created_at": "2025-06-29T00:31:17.182069",
+      "checksum": "8ecd8d379d8e3f772012cf4d92e68fdbdc7448afa2ff3d0c27901a4c3d225f6d",
+      "created_at": "2025-06-29T12:09:04.592044",
       "document_id": "bitterbridge_unity_hashing_grid",
       "file": "github/repos/bitterbridge_unity_hashing_grid.emb.gz",
-      "file_size": 2911,
+      "file_size": 5268,
       "store_type": "github.repos"
     },
     "github.repos.bitterbridge_whispers": {
-      "checksum": "2ed7c19ccc1c4e8db36b2098861b22f1c678c033e277332ba6c5912af1aacba1",
-      "created_at": "2025-06-29T00:31:23.407765",
+      "checksum": "34672bbbd1fc950d8036c0a9e1d480e2c406c55202b2177a93050039eb6de0f9",
+      "created_at": "2025-06-29T12:09:09.339159",
       "document_id": "bitterbridge_whispers",
       "file": "github/repos/bitterbridge_whispers.emb.gz",
-      "file_size": 2900,
+      "file_size": 5240,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_.github.activity": {
+      "checksum": "8ff317abad5fdc4fb18fcb6159fee86b58b5d0d8483d9bf445f1dd62a958442f",
+      "created_at": "2025-06-29T12:09:16.125728",
+      "document_id": "github.repos.bitterbridge_.github.activity",
+      "file": "github/repos/github.repos.bitterbridge_.github.activity.emb.gz",
+      "file_size": 5246,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_.github.core": {
+      "checksum": "94233b8c367a1694ebea51a28b92c89edabc9b03f10e2f38051b70589d4435fe",
+      "created_at": "2025-06-29T12:09:16.122557",
+      "document_id": "github.repos.bitterbridge_.github.core",
+      "file": "github/repos/github.repos.bitterbridge_.github.core.emb.gz",
+      "file_size": 5301,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_.github.technical": {
+      "checksum": "2573dcfb4fcca0bb9f0c4758cdcbedd63dc03b906be0dc37204fe8db245de559",
+      "created_at": "2025-06-29T12:09:16.123885",
+      "document_id": "github.repos.bitterbridge_.github.technical",
+      "file": "github/repos/github.repos.bitterbridge_.github.technical.emb.gz",
+      "file_size": 5246,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_blackpool.activity": {
+      "checksum": "0fe20fe2d8523e87f4fd12da41cd4d9fb0745f6100f3c85387348bb389db37a8",
+      "created_at": "2025-06-29T12:09:03.224919",
+      "document_id": "github.repos.bitterbridge_blackpool.activity",
+      "file": "github/repos/github.repos.bitterbridge_blackpool.activity.emb.gz",
+      "file_size": 5244,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_blackpool.core": {
+      "checksum": "9030cfe1d1e2edc648476b6abf241fb229dcd1107398d6b4cfb8c38d4a3db569",
+      "created_at": "2025-06-29T12:09:03.223602",
+      "document_id": "github.repos.bitterbridge_blackpool.core",
+      "file": "github/repos/github.repos.bitterbridge_blackpool.core.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_blackpool.technical": {
+      "checksum": "ea65273c0a13b3a52094130d9306cc1f14d4d49225703627a7b89174ac423399",
+      "created_at": "2025-06-29T12:09:03.224311",
+      "document_id": "github.repos.bitterbridge_blackpool.technical",
+      "file": "github/repos/github.repos.bitterbridge_blackpool.technical.emb.gz",
+      "file_size": 5247,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_distillation.activity": {
+      "checksum": "68ea3a31c40218c438c74ca197c9ccb32d8b399bc5cc4ff8b53506a8f70ae5f7",
+      "created_at": "2025-06-29T12:09:04.455276",
+      "document_id": "github.repos.bitterbridge_distillation.activity",
+      "file": "github/repos/github.repos.bitterbridge_distillation.activity.emb.gz",
+      "file_size": 5295,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_distillation.core": {
+      "checksum": "42c98cd3931fb6cf162625d14e96dca6453fc5c1dcd521dbe90539443a750660",
+      "created_at": "2025-06-29T12:09:04.453985",
+      "document_id": "github.repos.bitterbridge_distillation.core",
+      "file": "github/repos/github.repos.bitterbridge_distillation.core.emb.gz",
+      "file_size": 5229,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_distillation.technical": {
+      "checksum": "1311459b822ee45f63f0660d8fc43395264d542f99b84ae9a4e15e5e337dc3e6",
+      "created_at": "2025-06-29T12:09:04.454664",
+      "document_id": "github.repos.bitterbridge_distillation.technical",
+      "file": "github/repos/github.repos.bitterbridge_distillation.technical.emb.gz",
+      "file_size": 5259,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_github_actions.activity": {
+      "checksum": "bbfffbeccb8e838bfcba4ebc0ef854348371426fa61eb03cfd563ef5228926a4",
+      "created_at": "2025-06-29T12:09:22.624459",
+      "document_id": "github.repos.bitterbridge_github_actions.activity",
+      "file": "github/repos/github.repos.bitterbridge_github_actions.activity.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_github_actions.core": {
+      "checksum": "241d08959a9b4b883bf77ff68d2fdf8ba070e4c5543299c1ab162c93ac491d8d",
+      "created_at": "2025-06-29T12:09:22.618601",
+      "document_id": "github.repos.bitterbridge_github_actions.core",
+      "file": "github/repos/github.repos.bitterbridge_github_actions.core.emb.gz",
+      "file_size": 5238,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_github_actions.technical": {
+      "checksum": "5d8ae1bd2cf6d4365cbe3be6ffc6027d03c7ba5be1fb874a693d2bb48e3b7180",
+      "created_at": "2025-06-29T12:09:22.621871",
+      "document_id": "github.repos.bitterbridge_github_actions.technical",
+      "file": "github/repos/github.repos.bitterbridge_github_actions.technical.emb.gz",
+      "file_size": 5209,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_linear_regression.activity": {
+      "checksum": "2bc616fb8273d0ccfc2ae0d2daa084ed185ff01507a293e7018b1c4d45ea092d",
+      "created_at": "2025-06-29T12:09:15.433321",
+      "document_id": "github.repos.bitterbridge_linear_regression.activity",
+      "file": "github/repos/github.repos.bitterbridge_linear_regression.activity.emb.gz",
+      "file_size": 5195,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_linear_regression.core": {
+      "checksum": "d06ff3a589e6ea733fa1d501fac224321055ddb00daf7a191a495926a5f91588",
+      "created_at": "2025-06-29T12:09:15.428786",
+      "document_id": "github.repos.bitterbridge_linear_regression.core",
+      "file": "github/repos/github.repos.bitterbridge_linear_regression.core.emb.gz",
+      "file_size": 5205,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_linear_regression.technical": {
+      "checksum": "ea65273c0a13b3a52094130d9306cc1f14d4d49225703627a7b89174ac423399",
+      "created_at": "2025-06-29T12:09:15.431148",
+      "document_id": "github.repos.bitterbridge_linear_regression.technical",
+      "file": "github/repos/github.repos.bitterbridge_linear_regression.technical.emb.gz",
+      "file_size": 5247,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_mips_sudoku_solver.activity": {
+      "checksum": "9395a6daeecbd799a08a21079cf4f798a9b6d976bc14e04955e11a44f083e6c5",
+      "created_at": "2025-06-29T12:09:07.200053",
+      "document_id": "github.repos.bitterbridge_mips_sudoku_solver.activity",
+      "file": "github/repos/github.repos.bitterbridge_mips_sudoku_solver.activity.emb.gz",
+      "file_size": 5234,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_mips_sudoku_solver.core": {
+      "checksum": "682e1362a757f172ed31f6ee5d0ce7b734e90edf9ec65a758343d2ec612c524e",
+      "created_at": "2025-06-29T12:09:07.198204",
+      "document_id": "github.repos.bitterbridge_mips_sudoku_solver.core",
+      "file": "github/repos/github.repos.bitterbridge_mips_sudoku_solver.core.emb.gz",
+      "file_size": 5259,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_mips_sudoku_solver.technical": {
+      "checksum": "37c5b830c7a8f8c85789b12ced73c1f719e5f8fd28a713b9496a7ae9eacee491",
+      "created_at": "2025-06-29T12:09:07.199150",
+      "document_id": "github.repos.bitterbridge_mips_sudoku_solver.technical",
+      "file": "github/repos/github.repos.bitterbridge_mips_sudoku_solver.technical.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_resume.activity": {
+      "checksum": "8eb3ae2ed727b178723e43473d153ad341278e215a24da04ddf6c94ad0644689",
+      "created_at": "2025-06-29T12:09:10.083403",
+      "document_id": "github.repos.bitterbridge_resume.activity",
+      "file": "github/repos/github.repos.bitterbridge_resume.activity.emb.gz",
+      "file_size": 5252,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_resume.core": {
+      "checksum": "f8c8833e6f9d22fe5c0ddd68ff0b40a3bef5b61adde1a91ebfa2d24c3506253c",
+      "created_at": "2025-06-29T12:09:10.080631",
+      "document_id": "github.repos.bitterbridge_resume.core",
+      "file": "github/repos/github.repos.bitterbridge_resume.core.emb.gz",
+      "file_size": 5267,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_resume.technical": {
+      "checksum": "642ea32e36b9d390b0439a16308381e02ec1b8c7d3ccef050601399022bb2e6f",
+      "created_at": "2025-06-29T12:09:10.082013",
+      "document_id": "github.repos.bitterbridge_resume.technical",
+      "file": "github/repos/github.repos.bitterbridge_resume.technical.emb.gz",
+      "file_size": 5258,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform.activity": {
+      "checksum": "bdf5cb8d3d4a0e955216fb308ebf2f25c408d110fc714d8fe60ebd36bf746357",
+      "created_at": "2025-06-29T12:09:10.377041",
+      "document_id": "github.repos.bitterbridge_terraform.activity",
+      "file": "github/repos/github.repos.bitterbridge_terraform.activity.emb.gz",
+      "file_size": 5243,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform.core": {
+      "checksum": "2b1cbaa538dd15d415147155e863a075537e6d2967871c93c7d9503129a39336",
+      "created_at": "2025-06-29T12:09:10.372754",
+      "document_id": "github.repos.bitterbridge_terraform.core",
+      "file": "github/repos/github.repos.bitterbridge_terraform.core.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform.technical": {
+      "checksum": "b6436f2c3f68e6a45ca42bf3f4ecccc4a57c1f9ba7eca378db5b54a5006238f9",
+      "created_at": "2025-06-29T12:09:10.374674",
+      "document_id": "github.repos.bitterbridge_terraform.technical",
+      "file": "github/repos/github.repos.bitterbridge_terraform.technical.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform_modules.activity": {
+      "checksum": "59a35c3043e1fe1f9e716a18548bcc6e49cd4761a98ba8e9262cc7c0bc1cfb15",
+      "created_at": "2025-06-29T12:09:18.373003",
+      "document_id": "github.repos.bitterbridge_terraform_modules.activity",
+      "file": "github/repos/github.repos.bitterbridge_terraform_modules.activity.emb.gz",
+      "file_size": 5172,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform_modules.core": {
+      "checksum": "8806ea2e6f9de53055b52504f9d004ee73fe977a4a6404e853adbef540d66eff",
+      "created_at": "2025-06-29T12:09:18.370797",
+      "document_id": "github.repos.bitterbridge_terraform_modules.core",
+      "file": "github/repos/github.repos.bitterbridge_terraform_modules.core.emb.gz",
+      "file_size": 5237,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_terraform_modules.technical": {
+      "checksum": "b6436f2c3f68e6a45ca42bf3f4ecccc4a57c1f9ba7eca378db5b54a5006238f9",
+      "created_at": "2025-06-29T12:09:18.371951",
+      "document_id": "github.repos.bitterbridge_terraform_modules.technical",
+      "file": "github/repos/github.repos.bitterbridge_terraform_modules.technical.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_unity_hashing_grid.activity": {
+      "checksum": "47d8663c610ef0e6d89f49117d079de0a2e7a63ae6f5fb805b7e950b67e2ae5b",
+      "created_at": "2025-06-29T12:09:04.815527",
+      "document_id": "github.repos.bitterbridge_unity_hashing_grid.activity",
+      "file": "github/repos/github.repos.bitterbridge_unity_hashing_grid.activity.emb.gz",
+      "file_size": 5225,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_unity_hashing_grid.core": {
+      "checksum": "82de1bfcaa59929089007a3f196e9f2a9157d7ab31dd5bae0a80fd50d8a3e475",
+      "created_at": "2025-06-29T12:09:04.813451",
+      "document_id": "github.repos.bitterbridge_unity_hashing_grid.core",
+      "file": "github/repos/github.repos.bitterbridge_unity_hashing_grid.core.emb.gz",
+      "file_size": 5257,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_unity_hashing_grid.technical": {
+      "checksum": "231fea1c82b088f9c4185e0d6acfd75d4e4139cf111a3aba2619e74f935478d4",
+      "created_at": "2025-06-29T12:09:04.814690",
+      "document_id": "github.repos.bitterbridge_unity_hashing_grid.technical",
+      "file": "github/repos/github.repos.bitterbridge_unity_hashing_grid.technical.emb.gz",
+      "file_size": 5250,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_whispers.activity": {
+      "checksum": "ea8deed3e3ef2851cb8769b9e5ae64ce7d7c9825387dbc1cd828a5635a423d41",
+      "created_at": "2025-06-29T12:09:09.563215",
+      "document_id": "github.repos.bitterbridge_whispers.activity",
+      "file": "github/repos/github.repos.bitterbridge_whispers.activity.emb.gz",
+      "file_size": 5254,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_whispers.core": {
+      "checksum": "18c106a51b7c2c6393d12de6d645abdf9bfe62e8786e236e2146ddb684c3f272",
+      "created_at": "2025-06-29T12:09:09.559113",
+      "document_id": "github.repos.bitterbridge_whispers.core",
+      "file": "github/repos/github.repos.bitterbridge_whispers.core.emb.gz",
+      "file_size": 5229,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.bitterbridge_whispers.technical": {
+      "checksum": "e32c09faf2b3a07b0bb7263d2630c5e9eedcd01e3f90b4ace6570be804960405",
+      "created_at": "2025-06-29T12:09:09.560310",
+      "document_id": "github.repos.bitterbridge_whispers.technical",
+      "file": "github/repos/github.repos.bitterbridge_whispers.technical.emb.gz",
+      "file_size": 5273,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_.github.activity": {
+      "checksum": "46af324e15c06bdad9a895f9cee7b5226d7ae19f01f0acddd5594eb1e91b05a6",
+      "created_at": "2025-06-29T12:09:19.119321",
+      "document_id": "github.repos.goldentooth_.github.activity",
+      "file": "github/repos/github.repos.goldentooth_.github.activity.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_.github.core": {
+      "checksum": "a0dc8e529a65345c4b32b8a47fe84d7f9b480a35e9d5cc808f45e70146f1eb20",
+      "created_at": "2025-06-29T12:09:19.116289",
+      "document_id": "github.repos.goldentooth_.github.core",
+      "file": "github/repos/github.repos.goldentooth_.github.core.emb.gz",
+      "file_size": 5265,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_.github.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:19.117602",
+      "document_id": "github.repos.goldentooth_.github.technical",
+      "file": "github/repos/github.repos.goldentooth_.github.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_agent.activity": {
+      "checksum": "a51a1f36b5182ea15a28c931eaa0f5b0dba67298f2ef65eb8f81ee06a9b0974d",
+      "created_at": "2025-06-29T12:09:06.812935",
+      "document_id": "github.repos.goldentooth_agent.activity",
+      "file": "github/repos/github.repos.goldentooth_agent.activity.emb.gz",
+      "file_size": 5221,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_agent.core": {
+      "checksum": "c5cf55b2136df08535ee5ca12729cf1d783fbd9c76719b38c0515ce636391b7c",
+      "created_at": "2025-06-29T12:09:06.811188",
+      "document_id": "github.repos.goldentooth_agent.core",
+      "file": "github/repos/github.repos.goldentooth_agent.core.emb.gz",
+      "file_size": 5229,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_agent.technical": {
+      "checksum": "072fe1e29dae1fa3bf610b4a437022a7e734d1d35d6c153cf6de9b6b9dd87b8b",
+      "created_at": "2025-06-29T12:09:06.812117",
+      "document_id": "github.repos.goldentooth_agent.technical",
+      "file": "github/repos/github.repos.goldentooth_agent.technical.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_ansible.activity": {
+      "checksum": "e2554ea91509db014048cd27e43cb99cef28e81415696318bbdff01cfadd447f",
+      "created_at": "2025-06-29T12:09:19.540590",
+      "document_id": "github.repos.goldentooth_ansible.activity",
+      "file": "github/repos/github.repos.goldentooth_ansible.activity.emb.gz",
+      "file_size": 5261,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_ansible.core": {
+      "checksum": "186f5cf7983da9b1c0ac114870eb8560afbe8dec96d2fdb7f19502a031d6ee5b",
+      "created_at": "2025-06-29T12:09:19.538038",
+      "document_id": "github.repos.goldentooth_ansible.core",
+      "file": "github/repos/github.repos.goldentooth_ansible.core.emb.gz",
+      "file_size": 5250,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_ansible.technical": {
+      "checksum": "ed5157765a610e6560abc33c725a1f8938ed98e2da0853138bb922d0a55c63be",
+      "created_at": "2025-06-29T12:09:19.539442",
+      "document_id": "github.repos.goldentooth_ansible.technical",
+      "file": "github/repos/github.repos.goldentooth_ansible.technical.emb.gz",
+      "file_size": 5281,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_asoiaf_noble_house_images.activity": {
+      "checksum": "26ad8a4b41427254ba50046c89b7f2df00c9aea39061e0ea67a4c360eba500b3",
+      "created_at": "2025-06-29T12:09:13.051234",
+      "document_id": "github.repos.goldentooth_asoiaf_noble_house_images.activity",
+      "file": "github/repos/github.repos.goldentooth_asoiaf_noble_house_images.activity.emb.gz",
+      "file_size": 5239,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_asoiaf_noble_house_images.core": {
+      "checksum": "bc4cf17fd7c7b80b0f9754db76ff2c5058735a7316e42c6c9c5355ce6f32ab9b",
+      "created_at": "2025-06-29T12:09:13.048098",
+      "document_id": "github.repos.goldentooth_asoiaf_noble_house_images.core",
+      "file": "github/repos/github.repos.goldentooth_asoiaf_noble_house_images.core.emb.gz",
+      "file_size": 5256,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_asoiaf_noble_house_images.technical": {
+      "checksum": "a1e15e98603d89bd34c73bdd9fb453d23246065d9ceca47819bdc4fcb8f80562",
+      "created_at": "2025-06-29T12:09:13.049561",
+      "document_id": "github.repos.goldentooth_asoiaf_noble_house_images.technical",
+      "file": "github/repos/github.repos.goldentooth_asoiaf_noble_house_images.technical.emb.gz",
+      "file_size": 5256,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_bash.activity": {
+      "checksum": "941d9eb88d8ef04602cb7667c454d4cdcb3478366cae5046ff9ea757acaf06fa",
+      "created_at": "2025-06-29T12:09:21.540643",
+      "document_id": "github.repos.goldentooth_bash.activity",
+      "file": "github/repos/github.repos.goldentooth_bash.activity.emb.gz",
+      "file_size": 5250,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_bash.core": {
+      "checksum": "2b71012b9b35cf3c4018dc6ddd1f53d433fd88437fde84ef30776949effd9b75",
+      "created_at": "2025-06-29T12:09:21.538023",
+      "document_id": "github.repos.goldentooth_bash.core",
+      "file": "github/repos/github.repos.goldentooth_bash.core.emb.gz",
+      "file_size": 5270,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_bash.technical": {
+      "checksum": "e43a080aa6d4c6eab44de09e473c25ea3cb4258e58afa849091777d9aa0a9ca0",
+      "created_at": "2025-06-29T12:09:21.539377",
+      "document_id": "github.repos.goldentooth_bash.technical",
+      "file": "github/repos/github.repos.goldentooth_bash.technical.emb.gz",
+      "file_size": 5233,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_clog.activity": {
+      "checksum": "41a7fe0b1d9b5831ed4decd4ab32316f9d0c079a22cd1da048f5a48f76b15551",
+      "created_at": "2025-06-29T12:09:25.640576",
+      "document_id": "github.repos.goldentooth_clog.activity",
+      "file": "github/repos/github.repos.goldentooth_clog.activity.emb.gz",
+      "file_size": 5246,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_clog.core": {
+      "checksum": "d5c96a54dcc652e9243af809f3cc44c3c0492256f9d13561555a036d61213fc0",
+      "created_at": "2025-06-29T12:09:25.636509",
+      "document_id": "github.repos.goldentooth_clog.core",
+      "file": "github/repos/github.repos.goldentooth_clog.core.emb.gz",
+      "file_size": 5254,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_clog.technical": {
+      "checksum": "89fbd7dd155a7539305149ec73e4d2ac01fcabf95b1589703fa800dd2537274d",
+      "created_at": "2025-06-29T12:09:25.638539",
+      "document_id": "github.repos.goldentooth_clog.technical",
+      "file": "github/repos/github.repos.goldentooth_clog.technical.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_dns.activity": {
+      "checksum": "2309d9e354223b41d9b5bcf5620b5c59550600b47e776afec369fbb555d0fe1d",
+      "created_at": "2025-06-29T12:09:14.060246",
+      "document_id": "github.repos.goldentooth_external_dns.activity",
+      "file": "github/repos/github.repos.goldentooth_external_dns.activity.emb.gz",
+      "file_size": 5239,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_dns.core": {
+      "checksum": "8ab59d5e9f947ed5f1ff3018ef2bb72211385773d6ee9991e29516b382f5ff42",
+      "created_at": "2025-06-29T12:09:14.056430",
+      "document_id": "github.repos.goldentooth_external_dns.core",
+      "file": "github/repos/github.repos.goldentooth_external_dns.core.emb.gz",
+      "file_size": 5256,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_dns.technical": {
+      "checksum": "067b02cdeb67e6441433d25c6ba329b1d95a8c25472611ef9dd86e0ca3eee5f9",
+      "created_at": "2025-06-29T12:09:14.058377",
+      "document_id": "github.repos.goldentooth_external_dns.technical",
+      "file": "github/repos/github.repos.goldentooth_external_dns.technical.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_secrets.activity": {
+      "checksum": "2841996aee714765e5e3adce667cb4526fc149998d9c735f5a57b68e2ae0841b",
+      "created_at": "2025-06-29T12:09:02.597501",
+      "document_id": "github.repos.goldentooth_external_secrets.activity",
+      "file": "github/repos/github.repos.goldentooth_external_secrets.activity.emb.gz",
+      "file_size": 5210,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_secrets.core": {
+      "checksum": "77d2aba2c133d470de573e91bc09ccffccc7b872cb1c9abc15c17d55b07eefee",
+      "created_at": "2025-06-29T12:09:02.595701",
+      "document_id": "github.repos.goldentooth_external_secrets.core",
+      "file": "github/repos/github.repos.goldentooth_external_secrets.core.emb.gz",
+      "file_size": 5239,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_external_secrets.technical": {
+      "checksum": "067b02cdeb67e6441433d25c6ba329b1d95a8c25472611ef9dd86e0ca3eee5f9",
+      "created_at": "2025-06-29T12:09:02.596619",
+      "document_id": "github.repos.goldentooth_external_secrets.technical",
+      "file": "github/repos/github.repos.goldentooth_external_secrets.technical.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flags.activity": {
+      "checksum": "bab1a926d79d8e2036605fd5d74bac436001d0d98a307a1ab2172163265c391c",
+      "created_at": "2025-06-29T12:09:18.757357",
+      "document_id": "github.repos.goldentooth_flags.activity",
+      "file": "github/repos/github.repos.goldentooth_flags.activity.emb.gz",
+      "file_size": 5239,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flags.core": {
+      "checksum": "0c0967c4c6cc2323b49000f95ee7973789d582326dc227308d5ccdd707e5915a",
+      "created_at": "2025-06-29T12:09:18.752183",
+      "document_id": "github.repos.goldentooth_flags.core",
+      "file": "github/repos/github.repos.goldentooth_flags.core.emb.gz",
+      "file_size": 5189,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flags.technical": {
+      "checksum": "addc5d211a320cc0827a0d663e40a4f634c291c43869d4520b8223ea12ab4528",
+      "created_at": "2025-06-29T12:09:18.756254",
+      "document_id": "github.repos.goldentooth_flags.technical",
+      "file": "github/repos/github.repos.goldentooth_flags.technical.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flood.activity": {
+      "checksum": "6666340de64ea600bbbd450199db7c846fb865cfa15122e2a2027c5cded61697",
+      "created_at": "2025-06-29T12:09:17.936964",
+      "document_id": "github.repos.goldentooth_flood.activity",
+      "file": "github/repos/github.repos.goldentooth_flood.activity.emb.gz",
+      "file_size": 5254,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flood.core": {
+      "checksum": "cba206bf8b130389f75408ea2f2aadd307a1e54923ebf8d04d2691c0ebe377a9",
+      "created_at": "2025-06-29T12:09:17.933701",
+      "document_id": "github.repos.goldentooth_flood.core",
+      "file": "github/repos/github.repos.goldentooth_flood.core.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_flood.technical": {
+      "checksum": "0f9297220d07a07d0b206ecba10718c49bd4ebe35f463337a01b98da561965c0",
+      "created_at": "2025-06-29T12:09:17.935374",
+      "document_id": "github.repos.goldentooth_flood.technical",
+      "file": "github/repos/github.repos.goldentooth_flood.technical.emb.gz",
+      "file_size": 5271,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_gitops_template.activity": {
+      "checksum": "f5dccd6f8d14e40ff964bc3f11985cb2b1a4afc0bc2e8875480d0f7f33707627",
+      "created_at": "2025-06-29T12:09:12.671033",
+      "document_id": "github.repos.goldentooth_gitops_template.activity",
+      "file": "github/repos/github.repos.goldentooth_gitops_template.activity.emb.gz",
+      "file_size": 5273,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_gitops_template.core": {
+      "checksum": "b2e4afa23bd9d5a9bd534219ea62dcf19b843137f9d4caa2da9fcdb4f25855f5",
+      "created_at": "2025-06-29T12:09:12.669117",
+      "document_id": "github.repos.goldentooth_gitops_template.core",
+      "file": "github/repos/github.repos.goldentooth_gitops_template.core.emb.gz",
+      "file_size": 5200,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_gitops_template.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:12.670135",
+      "document_id": "github.repos.goldentooth_gitops_template.technical",
+      "file": "github/repos/github.repos.goldentooth_gitops_template.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_grafana_dashboards.activity": {
+      "checksum": "1e02924ea94889e0d6194d5b417012818f36d26e0521de84dbb05460f2d56bc5",
+      "created_at": "2025-06-29T12:09:10.797761",
+      "document_id": "github.repos.goldentooth_grafana_dashboards.activity",
+      "file": "github/repos/github.repos.goldentooth_grafana_dashboards.activity.emb.gz",
+      "file_size": 5209,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_grafana_dashboards.core": {
+      "checksum": "08e80c3f6624c83a81284e6a093b0428bd6e9e22515df49f3b7ca4322ff99c90",
+      "created_at": "2025-06-29T12:09:10.795602",
+      "document_id": "github.repos.goldentooth_grafana_dashboards.core",
+      "file": "github/repos/github.repos.goldentooth_grafana_dashboards.core.emb.gz",
+      "file_size": 5195,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_grafana_dashboards.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:10.796535",
+      "document_id": "github.repos.goldentooth_grafana_dashboards.technical",
+      "file": "github/repos/github.repos.goldentooth_grafana_dashboards.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_httpbin.activity": {
+      "checksum": "85d389b1b875b1a4deb65b90727524de4e97afd19aa7fdec1ef581fcf5285d27",
+      "created_at": "2025-06-29T12:09:06.234880",
+      "document_id": "github.repos.goldentooth_httpbin.activity",
+      "file": "github/repos/github.repos.goldentooth_httpbin.activity.emb.gz",
+      "file_size": 5226,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_httpbin.core": {
+      "checksum": "ce8425f45a3f126350bf1014f903391f71e9122b56e2a230c877f98e9f78273e",
+      "created_at": "2025-06-29T12:09:06.233095",
+      "document_id": "github.repos.goldentooth_httpbin.core",
+      "file": "github/repos/github.repos.goldentooth_httpbin.core.emb.gz",
+      "file_size": 5266,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_httpbin.technical": {
+      "checksum": "067b02cdeb67e6441433d25c6ba329b1d95a8c25472611ef9dd86e0ca3eee5f9",
+      "created_at": "2025-06-29T12:09:06.233975",
+      "document_id": "github.repos.goldentooth_httpbin.technical",
+      "file": "github/repos/github.repos.goldentooth_httpbin.technical.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_metallb.activity": {
+      "checksum": "b78aa7c7fd6b3d8d910f0404c79f1da29a715261e09d6d72b6f229636780e635",
+      "created_at": "2025-06-29T12:09:08.385581",
+      "document_id": "github.repos.goldentooth_metallb.activity",
+      "file": "github/repos/github.repos.goldentooth_metallb.activity.emb.gz",
+      "file_size": 5240,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_metallb.core": {
+      "checksum": "076c3e5b948bc21aea78e98b4f6ff4c63adac2caadd7bc7304d07bb51f624d9b",
+      "created_at": "2025-06-29T12:09:08.382897",
+      "document_id": "github.repos.goldentooth_metallb.core",
+      "file": "github/repos/github.repos.goldentooth_metallb.core.emb.gz",
+      "file_size": 5285,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_metallb.technical": {
+      "checksum": "067b02cdeb67e6441433d25c6ba329b1d95a8c25472611ef9dd86e0ca3eee5f9",
+      "created_at": "2025-06-29T12:09:08.384054",
+      "document_id": "github.repos.goldentooth_metallb.technical",
+      "file": "github/repos/github.repos.goldentooth_metallb.technical.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_prometheus_node_exporter.activity": {
+      "checksum": "b527bc6a02abefb69c5a62a45987bebf2b12b1da8568ac01a226e1066312d239",
+      "created_at": "2025-06-29T12:09:24.474453",
+      "document_id": "github.repos.goldentooth_prometheus_node_exporter.activity",
+      "file": "github/repos/github.repos.goldentooth_prometheus_node_exporter.activity.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_prometheus_node_exporter.core": {
+      "checksum": "eb9acee86fcbb3f1783d86907bc36551ce5dca4b282c7538ab05db21c2020cea",
+      "created_at": "2025-06-29T12:09:24.468433",
+      "document_id": "github.repos.goldentooth_prometheus_node_exporter.core",
+      "file": "github/repos/github.repos.goldentooth_prometheus_node_exporter.core.emb.gz",
+      "file_size": 5235,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_prometheus_node_exporter.technical": {
+      "checksum": "97f3370cab35918d48076fb2c9221eead3f9e45f6701a072b43d76305e9b9e4c",
+      "created_at": "2025-06-29T12:09:24.471102",
+      "document_id": "github.repos.goldentooth_prometheus_node_exporter.technical",
+      "file": "github/repos/github.repos.goldentooth_prometheus_node_exporter.technical.emb.gz",
+      "file_size": 5264,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_pulse.activity": {
+      "checksum": "b5c967a9614a812b14a4ac30f9f9696d0dcba19123f5a0b7bda89d3a213f9ea2",
+      "created_at": "2025-06-29T12:09:03.577864",
+      "document_id": "github.repos.goldentooth_pulse.activity",
+      "file": "github/repos/github.repos.goldentooth_pulse.activity.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_pulse.core": {
+      "checksum": "7f58cc71708f6682f3d156996539d75d368450317c192c5537c7ec44c79f6c3e",
+      "created_at": "2025-06-29T12:09:03.575903",
+      "document_id": "github.repos.goldentooth_pulse.core",
+      "file": "github/repos/github.repos.goldentooth_pulse.core.emb.gz",
+      "file_size": 5248,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_pulse.technical": {
+      "checksum": "b87c677293b423c56d06f8ca6fba800fbe6edfffb883a17c28047dfa9cafa7ce",
+      "created_at": "2025-06-29T12:09:03.576947",
+      "document_id": "github.repos.goldentooth_pulse.technical",
+      "file": "github/repos/github.repos.goldentooth_pulse.technical.emb.gz",
+      "file_size": 5210,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_roadmap.activity": {
+      "checksum": "8180d5b774599857ae68eb980fcc4ffeb305955052a123c578ad5ae1e65ae45a",
+      "created_at": "2025-06-29T12:09:12.037194",
+      "document_id": "github.repos.goldentooth_roadmap.activity",
+      "file": "github/repos/github.repos.goldentooth_roadmap.activity.emb.gz",
+      "file_size": 5251,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_roadmap.core": {
+      "checksum": "e7da8b315aa8e1a93b89b4814ae57d19ae9c767706e261c6208d43503dcbd4bf",
+      "created_at": "2025-06-29T12:09:12.033638",
+      "document_id": "github.repos.goldentooth_roadmap.core",
+      "file": "github/repos/github.repos.goldentooth_roadmap.core.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_roadmap.technical": {
+      "checksum": "75a412609cb1855ecc6f549c9f43bd03eb2211b811083aaebb3f5c2a45086b65",
+      "created_at": "2025-06-29T12:09:12.035234",
+      "document_id": "github.repos.goldentooth_roadmap.technical",
+      "file": "github/repos/github.repos.goldentooth_roadmap.technical.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_sealed_secrets.activity": {
+      "checksum": "fd078f006d3f665bc00e5c7d16473a2bd7612cf2fa60c098390531c97804350f",
+      "created_at": "2025-06-29T12:09:20.616661",
+      "document_id": "github.repos.goldentooth_sealed_secrets.activity",
+      "file": "github/repos/github.repos.goldentooth_sealed_secrets.activity.emb.gz",
+      "file_size": 5208,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_sealed_secrets.core": {
+      "checksum": "12760c40e32efe9b12e8f4f0e22fc38dec31ed28ead1255819a7ed40ce2fb005",
+      "created_at": "2025-06-29T12:09:20.613787",
+      "document_id": "github.repos.goldentooth_sealed_secrets.core",
+      "file": "github/repos/github.repos.goldentooth_sealed_secrets.core.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_sealed_secrets.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:20.615195",
+      "document_id": "github.repos.goldentooth_sealed_secrets.technical",
+      "file": "github/repos/github.repos.goldentooth_sealed_secrets.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_terraform.activity": {
+      "checksum": "d6a067bbbdf4a264651549272a869b34494775b52272f54eb10cc725a632944f",
+      "created_at": "2025-06-29T12:09:11.320296",
+      "document_id": "github.repos.goldentooth_terraform.activity",
+      "file": "github/repos/github.repos.goldentooth_terraform.activity.emb.gz",
+      "file_size": 5232,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_terraform.core": {
+      "checksum": "9bae0c0296a7eefc8f9ca6df8d390cb7eeb4828398e6e7212322dc62b15bd906",
+      "created_at": "2025-06-29T12:09:11.316075",
+      "document_id": "github.repos.goldentooth_terraform.core",
+      "file": "github/repos/github.repos.goldentooth_terraform.core.emb.gz",
+      "file_size": 5263,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_terraform.technical": {
+      "checksum": "1e763a8c161b2e9b8935d90a43e236b5adde0502ff13bc08a964965509135e92",
+      "created_at": "2025-06-29T12:09:11.318514",
+      "document_id": "github.repos.goldentooth_terraform.technical",
+      "file": "github/repos/github.repos.goldentooth_terraform.technical.emb.gz",
+      "file_size": 5226,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_whispers.activity": {
+      "checksum": "aac96d92051403aeb9027afd6d4b0a625e4f14813d203b88e3ce8caa019f4abd",
+      "created_at": "2025-06-29T12:09:22.330996",
+      "document_id": "github.repos.goldentooth_whispers.activity",
+      "file": "github/repos/github.repos.goldentooth_whispers.activity.emb.gz",
+      "file_size": 5245,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_whispers.core": {
+      "checksum": "cb0fa4bc9f890c1d5e08d231eccd29cefc6bae64b2e8ac930307ad9e94399b7a",
+      "created_at": "2025-06-29T12:09:22.326833",
+      "document_id": "github.repos.goldentooth_whispers.core",
+      "file": "github/repos/github.repos.goldentooth_whispers.core.emb.gz",
+      "file_size": 5257,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.goldentooth_whispers.technical": {
+      "checksum": "6b98ee5038031eeead3903b4447fc4e1fcd059002137de0f7efc091fc4da724e",
+      "created_at": "2025-06-29T12:09:22.329151",
+      "document_id": "github.repos.goldentooth_whispers.technical",
+      "file": "github/repos/github.repos.goldentooth_whispers.technical.emb.gz",
+      "file_size": 5261,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_.github.activity": {
+      "checksum": "cbfc6ab5965a70fa1372d890ec3fd5e6e669b149724b3998d568153bbdfe8046",
+      "created_at": "2025-06-29T12:09:12.319093",
+      "document_id": "github.repos.hellholt_.github.activity",
+      "file": "github/repos/github.repos.hellholt_.github.activity.emb.gz",
+      "file_size": 5254,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_.github.core": {
+      "checksum": "14df314debcba86a11284309243dc52065301b3bef3213218a8fe069e63c14a6",
+      "created_at": "2025-06-29T12:09:12.314938",
+      "document_id": "github.repos.hellholt_.github.core",
+      "file": "github/repos/github.repos.hellholt_.github.core.emb.gz",
+      "file_size": 5233,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_.github.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:12.317109",
+      "document_id": "github.repos.hellholt_.github.technical",
+      "file": "github/repos/github.repos.hellholt_.github.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_asoiaf_noble_house_images.activity": {
+      "checksum": "378647b36f6b31565e4ad3b046cadbd342eee0d88bedefd82ba45550fa1a959c",
+      "created_at": "2025-06-29T12:09:03.949604",
+      "document_id": "github.repos.hellholt_asoiaf_noble_house_images.activity",
+      "file": "github/repos/github.repos.hellholt_asoiaf_noble_house_images.activity.emb.gz",
+      "file_size": 5209,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_asoiaf_noble_house_images.core": {
+      "checksum": "a7e19af98dfa2ad2462695e2474be8cb89e44765b839cadd13b6579ea3bfe8b5",
+      "created_at": "2025-06-29T12:09:03.948186",
+      "document_id": "github.repos.hellholt_asoiaf_noble_house_images.core",
+      "file": "github/repos/github.repos.hellholt_asoiaf_noble_house_images.core.emb.gz",
+      "file_size": 5222,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_asoiaf_noble_house_images.technical": {
+      "checksum": "a1e15e98603d89bd34c73bdd9fb453d23246065d9ceca47819bdc4fcb8f80562",
+      "created_at": "2025-06-29T12:09:03.948941",
+      "document_id": "github.repos.hellholt_asoiaf_noble_house_images.technical",
+      "file": "github/repos/github.repos.hellholt_asoiaf_noble_house_images.technical.emb.gz",
+      "file_size": 5256,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_blog.activity": {
+      "checksum": "9772423004f7b5448098e067f923797674ea1fa97f502b2df03faed2a4927f5f",
+      "created_at": "2025-06-29T12:09:21.909206",
+      "document_id": "github.repos.hellholt_blog.activity",
+      "file": "github/repos/github.repos.hellholt_blog.activity.emb.gz",
+      "file_size": 5267,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_blog.core": {
+      "checksum": "beed5e9dec278c868af2d0a8d39254cc9fa0a06219a5e6e308c0cc35f17f96ba",
+      "created_at": "2025-06-29T12:09:21.906334",
+      "document_id": "github.repos.hellholt_blog.core",
+      "file": "github/repos/github.repos.hellholt_blog.core.emb.gz",
+      "file_size": 5228,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_blog.technical": {
+      "checksum": "a1e15e98603d89bd34c73bdd9fb453d23246065d9ceca47819bdc4fcb8f80562",
+      "created_at": "2025-06-29T12:09:21.907575",
+      "document_id": "github.repos.hellholt_blog.technical",
+      "file": "github/repos/github.repos.hellholt_blog.technical.emb.gz",
+      "file_size": 5256,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_books.activity": {
+      "checksum": "6727743345236556687b7ffaaaefb10e6f48ec2936a114fc43991f4150ae442d",
+      "created_at": "2025-06-29T12:09:22.973663",
+      "document_id": "github.repos.hellholt_books.activity",
+      "file": "github/repos/github.repos.hellholt_books.activity.emb.gz",
+      "file_size": 5226,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_books.core": {
+      "checksum": "bb30a7f17a4fd5e2fd023eabb331e878a20c62e34c496fba87831bd525018fe8",
+      "created_at": "2025-06-29T12:09:22.969253",
+      "document_id": "github.repos.hellholt_books.core",
+      "file": "github/repos/github.repos.hellholt_books.core.emb.gz",
+      "file_size": 5284,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_books.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:22.971422",
+      "document_id": "github.repos.hellholt_books.technical",
+      "file": "github/repos/github.repos.hellholt_books.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_cheatsheets.activity": {
+      "checksum": "51b718910f3566d5515bfaf809bbc835a481beefde10efdd8f6ebf6434d61612",
+      "created_at": "2025-06-29T12:09:25.273290",
+      "document_id": "github.repos.hellholt_cheatsheets.activity",
+      "file": "github/repos/github.repos.hellholt_cheatsheets.activity.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_cheatsheets.core": {
+      "checksum": "e630b930abf74dfd3220ec788082b5f663f6e982599ef07a0bfca99831bd4b67",
+      "created_at": "2025-06-29T12:09:25.269240",
+      "document_id": "github.repos.hellholt_cheatsheets.core",
+      "file": "github/repos/github.repos.hellholt_cheatsheets.core.emb.gz",
+      "file_size": 5240,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_cheatsheets.technical": {
+      "checksum": "75a412609cb1855ecc6f549c9f43bd03eb2211b811083aaebb3f5c2a45086b65",
+      "created_at": "2025-06-29T12:09:25.271411",
+      "document_id": "github.repos.hellholt_cheatsheets.technical",
+      "file": "github/repos/github.repos.hellholt_cheatsheets.technical.emb.gz",
+      "file_size": 5236,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_dotfiles.activity": {
+      "checksum": "1334ece18835e7e08d68579a38b1eaa04c6fce26bed3096a10fc4f4cb3beb493",
+      "created_at": "2025-06-29T12:09:19.875836",
+      "document_id": "github.repos.hellholt_dotfiles.activity",
+      "file": "github/repos/github.repos.hellholt_dotfiles.activity.emb.gz",
+      "file_size": 5237,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_dotfiles.core": {
+      "checksum": "9495a01d327b5adec1940d2f85cf96bf89045c099c3c6e60742d6ab607c6bbb2",
+      "created_at": "2025-06-29T12:09:19.873319",
+      "document_id": "github.repos.hellholt_dotfiles.core",
+      "file": "github/repos/github.repos.hellholt_dotfiles.core.emb.gz",
+      "file_size": 5209,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_dotfiles.technical": {
+      "checksum": "05a3375e60d5a2a5b66b64434291d420077dd737bf1c3e13abb2b021b6842e27",
+      "created_at": "2025-06-29T12:09:19.874702",
+      "document_id": "github.repos.hellholt_dotfiles.technical",
+      "file": "github/repos/github.repos.hellholt_dotfiles.technical.emb.gz",
+      "file_size": 5197,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_goals.activity": {
+      "checksum": "ca07caf0e29ac61a05870ccf9955a977d0e8731ebf35ce6a67b031bfb8651e5b",
+      "created_at": "2025-06-29T12:09:09.156986",
+      "document_id": "github.repos.hellholt_goals.activity",
+      "file": "github/repos/github.repos.hellholt_goals.activity.emb.gz",
+      "file_size": 5235,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_goals.core": {
+      "checksum": "b14bdd833776d6c2d68849c4a28ca31b713fddf47230d1699f83b8094362b916",
+      "created_at": "2025-06-29T12:09:09.155583",
+      "document_id": "github.repos.hellholt_goals.core",
+      "file": "github/repos/github.repos.hellholt_goals.core.emb.gz",
+      "file_size": 5203,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_goals.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:09.156309",
+      "document_id": "github.repos.hellholt_goals.technical",
+      "file": "github/repos/github.repos.hellholt_goals.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_ideas.activity": {
+      "checksum": "fc566a26e9d6fb98705386044ddb5e682d3809817c50520d912becb19e66189f",
+      "created_at": "2025-06-29T12:09:07.669787",
+      "document_id": "github.repos.hellholt_ideas.activity",
+      "file": "github/repos/github.repos.hellholt_ideas.activity.emb.gz",
+      "file_size": 5241,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_ideas.core": {
+      "checksum": "138d622b011a76299a3a81ce73901ec49a3fd5ab24d7318f7834232b5e51e0c8",
+      "created_at": "2025-06-29T12:09:07.667341",
+      "document_id": "github.repos.hellholt_ideas.core",
+      "file": "github/repos/github.repos.hellholt_ideas.core.emb.gz",
+      "file_size": 5244,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_ideas.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:07.668298",
+      "document_id": "github.repos.hellholt_ideas.technical",
+      "file": "github/repos/github.repos.hellholt_ideas.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_phd_ideas.activity": {
+      "checksum": "ab65f8556e4f3f577d70a659d801520bbaa33427f6a8c55df6863c7d201b95b6",
+      "created_at": "2025-06-29T12:09:11.652184",
+      "document_id": "github.repos.hellholt_phd_ideas.activity",
+      "file": "github/repos/github.repos.hellholt_phd_ideas.activity.emb.gz",
+      "file_size": 5290,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_phd_ideas.core": {
+      "checksum": "23285afb6ed7f23c544e9672c52e92f1cda3e4ef6d71f3ad33081ddf75476eb0",
+      "created_at": "2025-06-29T12:09:11.649385",
+      "document_id": "github.repos.hellholt_phd_ideas.core",
+      "file": "github/repos/github.repos.hellholt_phd_ideas.core.emb.gz",
+      "file_size": 5242,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_phd_ideas.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:11.650717",
+      "document_id": "github.repos.hellholt_phd_ideas.technical",
+      "file": "github/repos/github.repos.hellholt_phd_ideas.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_pinkmaiden.activity": {
+      "checksum": "11ec4870a58fb171875e812f42945f2cdd64945e6fcc9876429ad529061a9315",
+      "created_at": "2025-06-29T12:09:25.975782",
+      "document_id": "github.repos.hellholt_pinkmaiden.activity",
+      "file": "github/repos/github.repos.hellholt_pinkmaiden.activity.emb.gz",
+      "file_size": 5281,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_pinkmaiden.core": {
+      "checksum": "8d74d43eecc9c2514a2f41e39c50670420f9e9778f0a7690f8e87eb43d1d86d6",
+      "created_at": "2025-06-29T12:09:25.972926",
+      "document_id": "github.repos.hellholt_pinkmaiden.core",
+      "file": "github/repos/github.repos.hellholt_pinkmaiden.core.emb.gz",
+      "file_size": 5243,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_pinkmaiden.technical": {
+      "checksum": "48f6a295792b4f3fc95d2edbd8c6acd1effe12b454d43f9d9b47ba819b58673e",
+      "created_at": "2025-06-29T12:09:25.974312",
+      "document_id": "github.repos.hellholt_pinkmaiden.technical",
+      "file": "github/repos/github.repos.hellholt_pinkmaiden.technical.emb.gz",
+      "file_size": 5267,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_podcasts.activity": {
+      "checksum": "228a456e2c63c1308b9e4e2d988f0e7aa06db43381be9565608ff3fd7d352a0c",
+      "created_at": "2025-06-29T12:09:13.494543",
+      "document_id": "github.repos.hellholt_podcasts.activity",
+      "file": "github/repos/github.repos.hellholt_podcasts.activity.emb.gz",
+      "file_size": 5267,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_podcasts.core": {
+      "checksum": "96cb112368239377c66897b16dae25fcb48dc05c59ba23a20fad902bb4d3076b",
+      "created_at": "2025-06-29T12:09:13.491200",
+      "document_id": "github.repos.hellholt_podcasts.core",
+      "file": "github/repos/github.repos.hellholt_podcasts.core.emb.gz",
+      "file_size": 5278,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_podcasts.technical": {
+      "checksum": "d87000ba6ffce31990c13ae8fb4d119aeb3bfa9091843313ce6af256248bd362",
+      "created_at": "2025-06-29T12:09:13.492775",
+      "document_id": "github.repos.hellholt_podcasts.technical",
+      "file": "github/repos/github.repos.hellholt_podcasts.technical.emb.gz",
+      "file_size": 5294,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_projects.activity": {
+      "checksum": "76e8f4b5223fb0b7836a4337edb4b395618380e9ed58350d988242089c8f054b",
+      "created_at": "2025-06-29T12:09:20.313562",
+      "document_id": "github.repos.hellholt_projects.activity",
+      "file": "github/repos/github.repos.hellholt_projects.activity.emb.gz",
+      "file_size": 5277,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_projects.core": {
+      "checksum": "1e6bd9f1fc4549d0fa78437ae5b41cb152c42b47692a96d13b5fa6c4e16993b0",
+      "created_at": "2025-06-29T12:09:20.310531",
+      "document_id": "github.repos.hellholt_projects.core",
+      "file": "github/repos/github.repos.hellholt_projects.core.emb.gz",
+      "file_size": 5280,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_projects.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:20.311814",
+      "document_id": "github.repos.hellholt_projects.technical",
+      "file": "github/repos/github.repos.hellholt_projects.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_sillicoin_valley_tycoon.activity": {
+      "checksum": "60a9f1d8cd2cb0ac35615e1b871b61fec6d52526a5c48a033c3bdbe0a683d493",
+      "created_at": "2025-06-29T12:09:23.301676",
+      "document_id": "github.repos.hellholt_sillicoin_valley_tycoon.activity",
+      "file": "github/repos/github.repos.hellholt_sillicoin_valley_tycoon.activity.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_sillicoin_valley_tycoon.core": {
+      "checksum": "f2768265344ff1177416c7574767e8bec689cb69658ff54f44fb5af3ed91890c",
+      "created_at": "2025-06-29T12:09:23.297859",
+      "document_id": "github.repos.hellholt_sillicoin_valley_tycoon.core",
+      "file": "github/repos/github.repos.hellholt_sillicoin_valley_tycoon.core.emb.gz",
+      "file_size": 5264,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_sillicoin_valley_tycoon.technical": {
+      "checksum": "3774a1a83006d880607d70f83823291967607a4dcf0d42d7cb6282c99a4d6dde",
+      "created_at": "2025-06-29T12:09:23.299313",
+      "document_id": "github.repos.hellholt_sillicoin_valley_tycoon.technical",
+      "file": "github/repos/github.repos.hellholt_sillicoin_valley_tycoon.technical.emb.gz",
+      "file_size": 5217,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_terraform.activity": {
+      "checksum": "25b342afbc6cf05b62058d72b09035b29bd01766b1d45c752e59a85f5189688c",
+      "created_at": "2025-06-29T12:09:21.140431",
+      "document_id": "github.repos.hellholt_terraform.activity",
+      "file": "github/repos/github.repos.hellholt_terraform.activity.emb.gz",
+      "file_size": 5240,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_terraform.core": {
+      "checksum": "441d2c22c08e5b40a3faf3a84a6810b3b366ff55bcdce2850c745dc9c7c92bfb",
+      "created_at": "2025-06-29T12:09:21.136873",
+      "document_id": "github.repos.hellholt_terraform.core",
+      "file": "github/repos/github.repos.hellholt_terraform.core.emb.gz",
+      "file_size": 5245,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_terraform.technical": {
+      "checksum": "b6436f2c3f68e6a45ca42bf3f4ecccc4a57c1f9ba7eca378db5b54a5006238f9",
+      "created_at": "2025-06-29T12:09:21.138654",
+      "document_id": "github.repos.hellholt_terraform.technical",
+      "file": "github/repos/github.repos.hellholt_terraform.technical.emb.gz",
+      "file_size": 5249,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_todo.activity": {
+      "checksum": "3e89e653df2ad15df8d210f2e6dd19b858cdd444c219bd250c9ac78acdab6ed6",
+      "created_at": "2025-06-29T12:09:08.042473",
+      "document_id": "github.repos.hellholt_todo.activity",
+      "file": "github/repos/github.repos.hellholt_todo.activity.emb.gz",
+      "file_size": 5223,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_todo.core": {
+      "checksum": "a0a7825db9538408d5644c81ff27066a3636078cc5a2ca7ee71d82327fb181bf",
+      "created_at": "2025-06-29T12:09:08.039570",
+      "document_id": "github.repos.hellholt_todo.core",
+      "file": "github/repos/github.repos.hellholt_todo.core.emb.gz",
+      "file_size": 5262,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_todo.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:08.040859",
+      "document_id": "github.repos.hellholt_todo.technical",
+      "file": "github/repos/github.repos.hellholt_todo.technical.emb.gz",
+      "file_size": 5253,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_youtube.activity": {
+      "checksum": "7eebe2db4f83acd9bb1eff02a92cdd4f7312be38d71973845e78e5029f5ada30",
+      "created_at": "2025-06-29T12:09:23.742749",
+      "document_id": "github.repos.hellholt_youtube.activity",
+      "file": "github/repos/github.repos.hellholt_youtube.activity.emb.gz",
+      "file_size": 5242,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_youtube.core": {
+      "checksum": "05c821525afff05eaf41c10a0d489167acc93b5eaef2de6258e9a8d3769a1919",
+      "created_at": "2025-06-29T12:09:23.714652",
+      "document_id": "github.repos.hellholt_youtube.core",
+      "file": "github/repos/github.repos.hellholt_youtube.core.emb.gz",
+      "file_size": 5248,
+      "store_type": "github.repos"
+    },
+    "github.repos.github.repos.hellholt_youtube.technical": {
+      "checksum": "368ec13b3109b46633b17ec6ebccdb88f42dcc28969ec51efb8db8741107fccf",
+      "created_at": "2025-06-29T12:09:23.726047",
+      "document_id": "github.repos.hellholt_youtube.technical",
+      "file": "github/repos/github.repos.hellholt_youtube.technical.emb.gz",
+      "file_size": 5253,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_.github": {
-      "checksum": "a1ebfa9345c57bc08aaf738b406bc426169878e9db552123ca3830bad8523eee",
-      "created_at": "2025-06-29T09:29:17.322647",
+      "checksum": "ffd3523f5ffaf358fb9ae1963dba89cd5c499cc1b36b5f33db7341a6fb1427b3",
+      "created_at": "2025-06-29T12:09:18.926971",
       "document_id": "goldentooth_.github",
       "file": "github/repos/goldentooth_.github.emb.gz",
-      "file_size": 2924,
+      "file_size": 5254,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_agent": {
-      "checksum": "1d9236a24c20101dc49a287f22522257c810cd3bd01172bcfa85d47749cba123",
-      "created_at": "2025-06-29T09:29:17.324801",
+      "checksum": "b54a0d888189d77b4bff897084b989d69a3140172c925f0a2dfb366b57ebdd30",
+      "created_at": "2025-06-29T12:09:06.461777",
       "document_id": "goldentooth_agent",
       "file": "github/repos/goldentooth_agent.emb.gz",
-      "file_size": 2920,
+      "file_size": 5272,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_ansible": {
-      "checksum": "9f6f86dcf8a105bf79ca5ffb95c8792e8a0ac90f648c11a437dfa89d175bc162",
-      "created_at": "2025-06-29T09:29:17.326217",
+      "checksum": "35c364c893a53c14906d18a8073d7d9b1286c3dc131ff5d0bc0ed8acaf39cfe1",
+      "created_at": "2025-06-29T12:09:19.309477",
       "document_id": "goldentooth_ansible",
       "file": "github/repos/goldentooth_ansible.emb.gz",
-      "file_size": 2916,
+      "file_size": 5257,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_asoiaf_noble_house_images": {
-      "checksum": "6bcb10310b6f7024fa35f1f9b734b015bda9f7e214f750ff40bd7dd3161fad2f",
-      "created_at": "2025-06-29T09:29:17.327288",
+      "checksum": "d65bd348ce8acd85adb2eaa022bad2bd4f5981fb25a8aca88bd9624bfe162aac",
+      "created_at": "2025-06-29T12:09:12.832214",
       "document_id": "goldentooth_asoiaf_noble_house_images",
       "file": "github/repos/goldentooth_asoiaf_noble_house_images.emb.gz",
-      "file_size": 2918,
+      "file_size": 5271,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_bash": {
-      "checksum": "1310de3956bfdb85a7cf15935f9c32fb913fbaeea3c5f683f9a158343a9280ee",
-      "created_at": "2025-06-29T09:29:17.328450",
+      "checksum": "e1b7b209555812671d59f79a7c2a05ac8c5a8379bb54d60f969350de079e56f3",
+      "created_at": "2025-06-29T12:09:21.347923",
       "document_id": "goldentooth_bash",
       "file": "github/repos/goldentooth_bash.emb.gz",
-      "file_size": 2912,
+      "file_size": 5238,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_clog": {
-      "checksum": "7a0dd7f2afb0151e379474d321936e581e99e1983789aee8c6d6e4324254ed40",
-      "created_at": "2025-06-29T09:29:17.329523",
+      "checksum": "5cbef8d64c213ec1f224b4583ef5189b2c755b7d0e0a0032c6405fbfcfe0c6b9",
+      "created_at": "2025-06-29T12:09:25.438096",
       "document_id": "goldentooth_clog",
       "file": "github/repos/goldentooth_clog.emb.gz",
-      "file_size": 2914,
+      "file_size": 5241,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_external_dns": {
-      "checksum": "00480482a8acc68ddf17399e2f19cd40dfcfdd73ad766c8b09422fe6bf0002f0",
-      "created_at": "2025-06-29T09:29:17.330504",
+      "checksum": "6485ce5868efdca51a2a397d62c8c3d01f18a1ed46ac9e46770809c189299116",
+      "created_at": "2025-06-29T12:09:13.616901",
       "document_id": "goldentooth_external_dns",
       "file": "github/repos/goldentooth_external_dns.emb.gz",
-      "file_size": 2918,
+      "file_size": 5193,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_external_secrets": {
-      "checksum": "c5bcac0dc283cfcee25297b6dee30e864fe07146facbbe6d8ddb1bce84f888e7",
-      "created_at": "2025-06-29T09:29:17.332440",
+      "checksum": "399a9c53d463d37373218065ff234b95b005ec248b040db78b0798b87ca81bb7",
+      "created_at": "2025-06-29T12:09:02.355442",
       "document_id": "goldentooth_external_secrets",
       "file": "github/repos/goldentooth_external_secrets.emb.gz",
-      "file_size": 2908,
+      "file_size": 5216,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_flags": {
-      "checksum": "aec8a44638e2ff891d169838ad9499d8e00445113d9611f78143abaab478443e",
-      "created_at": "2025-06-29T09:29:17.334072",
+      "checksum": "7d3ec1d30568c2340c5f777ba1e5c3a392c7285c8d90b06822a6e029710d8572",
+      "created_at": "2025-06-29T12:09:18.537335",
       "document_id": "goldentooth_flags",
       "file": "github/repos/goldentooth_flags.emb.gz",
-      "file_size": 2905,
+      "file_size": 5263,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_flood": {
-      "checksum": "d7d323f9c28864ad9b9d24ac1b577a5bbbc5bcfb228c5fb6c05c51b77231bc09",
-      "created_at": "2025-06-29T09:29:17.335161",
+      "checksum": "9a9af21acde6fdec8cfeef8072449b6563d33916e1881cc13ce41a7242c0c2d7",
+      "created_at": "2025-06-29T12:09:17.748131",
       "document_id": "goldentooth_flood",
       "file": "github/repos/goldentooth_flood.emb.gz",
-      "file_size": 2912,
+      "file_size": 5247,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_gitops_template": {
-      "checksum": "39f6611569265d2386be5f74e0b10e3dc13875b435853ffcc2a12d3997c17023",
-      "created_at": "2025-06-29T09:29:17.336134",
+      "checksum": "c2d223084d857a6b9a95145423add5be515692395ae16c3d94337663dbfcdff9",
+      "created_at": "2025-06-29T12:09:12.476457",
       "document_id": "goldentooth_gitops_template",
       "file": "github/repos/goldentooth_gitops_template.emb.gz",
-      "file_size": 2918,
+      "file_size": 5245,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_grafana_dashboards": {
-      "checksum": "c56a00604007f53293b032e195b44f37ca6a97bf8cf9bbee491bed9b4e658a2a",
-      "created_at": "2025-06-29T09:29:17.337084",
+      "checksum": "2dc020d0deb1b1eb845d1c4553bb669da82ee39f52c7a5b5eef477cf50bc7f3c",
+      "created_at": "2025-06-29T12:09:10.584378",
       "document_id": "goldentooth_grafana_dashboards",
       "file": "github/repos/goldentooth_grafana_dashboards.emb.gz",
-      "file_size": 2921,
+      "file_size": 5220,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_httpbin": {
-      "checksum": "f8cc99a73fa6cd8eec9d937818822f48ef4c995a34e217b7527686cc9ddf1bf1",
-      "created_at": "2025-06-29T09:29:17.338025",
+      "checksum": "b665e3101ee7261ee01dd1b0ad7a55aa90094213799d34e63ce70d254cfe1bd1",
+      "created_at": "2025-06-29T12:09:06.083298",
       "document_id": "goldentooth_httpbin",
       "file": "github/repos/goldentooth_httpbin.emb.gz",
-      "file_size": 2910,
+      "file_size": 5219,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_metallb": {
-      "checksum": "3108debc892cb82c9707aac03f072d99a9e288f4415236620d3a2eea75309d6f",
-      "created_at": "2025-06-29T09:29:17.339417",
+      "checksum": "4ba1fe55aa9a0f7dcee7f2285487027682fb017080c25214b07dfc2f780da18d",
+      "created_at": "2025-06-29T12:09:08.179997",
       "document_id": "goldentooth_metallb",
       "file": "github/repos/goldentooth_metallb.emb.gz",
-      "file_size": 2905,
+      "file_size": 5250,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_prometheus_node_exporter": {
-      "checksum": "6fa7f8f3737f33d4ac55bf56064ff002f83cd29633d727877131f0be1efaab8b",
-      "created_at": "2025-06-29T09:29:17.340775",
+      "checksum": "8afbe23c67869dc1895ff1335059f520003e94e46732dd00f44567507247f764",
+      "created_at": "2025-06-29T12:09:24.060335",
       "document_id": "goldentooth_prometheus_node_exporter",
       "file": "github/repos/goldentooth_prometheus_node_exporter.emb.gz",
-      "file_size": 2915,
+      "file_size": 5235,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_pulse": {
-      "checksum": "db6838ba600cc43e4e09eaeda1dee102aef8f35d4999d8919dea57284f28fbee",
-      "created_at": "2025-06-29T09:29:17.341735",
+      "checksum": "a03120a83e5c0d44df25d552758b00bae6ecb2a24acd7ae7c0447b4408a5bbe8",
+      "created_at": "2025-06-29T12:09:03.409555",
       "document_id": "goldentooth_pulse",
       "file": "github/repos/goldentooth_pulse.emb.gz",
-      "file_size": 2909,
+      "file_size": 5008,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_roadmap": {
-      "checksum": "02daa9eeb0ff769d2dbe2853a06aa402ed96594a021b2dff0edb94680baefa2c",
-      "created_at": "2025-06-29T09:29:17.342690",
+      "checksum": "fe95e9cc50469b9bacd7b78db05d4aa57882de30b97a4b0925c233cbcb9bcdbc",
+      "created_at": "2025-06-29T12:09:11.840351",
       "document_id": "goldentooth_roadmap",
       "file": "github/repos/goldentooth_roadmap.emb.gz",
-      "file_size": 2912,
+      "file_size": 5215,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_sealed_secrets": {
-      "checksum": "7ed53684ec9e06aab2f731289b186916e166d75a4146561275ab2175095197f6",
-      "created_at": "2025-06-29T09:29:17.344200",
+      "checksum": "0bc3ed3223865d4a5e840969d55cfcf0a506c2837c4023c48139fe910d33d386",
+      "created_at": "2025-06-29T12:09:20.436027",
       "document_id": "goldentooth_sealed_secrets",
       "file": "github/repos/goldentooth_sealed_secrets.emb.gz",
-      "file_size": 2912,
+      "file_size": 5253,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_terraform": {
-      "checksum": "aa7c96518a58e3958b7889d3947f0634e1c7219103cb148c15329fd0c062a4c3",
-      "created_at": "2025-06-29T09:29:17.345535",
+      "checksum": "355f5b83797d31cb1317a6340b3e57fac0968111b743a9fc84e7b10823c17b4f",
+      "created_at": "2025-06-29T12:09:11.103876",
       "document_id": "goldentooth_terraform",
       "file": "github/repos/goldentooth_terraform.emb.gz",
-      "file_size": 2908,
+      "file_size": 5243,
       "store_type": "github.repos"
     },
     "github.repos.goldentooth_whispers": {
-      "checksum": "28fb0071315ff050976f64878f59e1264f4a8c9842f10754895f11c92148dd47",
-      "created_at": "2025-06-29T09:29:17.346517",
+      "checksum": "12b52d75c9e281f576bf5e5c4e8a3f6fba250d43934f2e0b3eb25f840085e659",
+      "created_at": "2025-06-29T12:09:22.057638",
       "document_id": "goldentooth_whispers",
       "file": "github/repos/goldentooth_whispers.emb.gz",
-      "file_size": 2915,
+      "file_size": 5248,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_.github": {
-      "checksum": "b119fb246e34262f4a336caf18ac132016efd2e363fc0f35dc3abc199d2db775",
-      "created_at": "2025-06-29T00:32:42.263890",
+      "checksum": "8e388020153dd839c3af138a3f2fb8cb63c078f82b18b305bedb4d38146849fb",
+      "created_at": "2025-06-29T12:09:12.180367",
       "document_id": "hellholt_.github",
       "file": "github/repos/hellholt_.github.emb.gz",
-      "file_size": 2924,
+      "file_size": 5254,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_asoiaf_noble_house_images": {
-      "checksum": "f492dda61584098601f9afbaf415e2035560a893f27532c6f5ba39b8fdbe0874",
-      "created_at": "2025-06-29T00:32:23.109553",
+      "checksum": "d65bd348ce8acd85adb2eaa022bad2bd4f5981fb25a8aca88bd9624bfe162aac",
+      "created_at": "2025-06-29T12:09:03.730445",
       "document_id": "hellholt_asoiaf_noble_house_images",
       "file": "github/repos/hellholt_asoiaf_noble_house_images.emb.gz",
-      "file_size": 2911,
+      "file_size": 5271,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_blog": {
-      "checksum": "56478bafee35829ac5f6fd62dbd33885094cab2ab5055f3607c9357808a64acf",
-      "created_at": "2025-06-29T00:33:01.660948",
+      "checksum": "d8d31df82e1bc561dbbdc71e12e721a1b4c13633149ceaf24bf9c24018aee556",
+      "created_at": "2025-06-29T12:09:21.748177",
       "document_id": "hellholt_blog",
       "file": "github/repos/hellholt_blog.emb.gz",
-      "file_size": 2903,
+      "file_size": 5245,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_books": {
-      "checksum": "1c26e53711b7c3b931aac745f510a2b30259a32ca428fdfa612949c5ed054ef5",
-      "created_at": "2025-06-29T00:33:05.204328",
+      "checksum": "3a12f625ebb2c758c59485b247f9d9155b5bc6d342493bb5487517ce7c78a61b",
+      "created_at": "2025-06-29T12:09:22.804469",
       "document_id": "hellholt_books",
       "file": "github/repos/hellholt_books.emb.gz",
-      "file_size": 2913,
+      "file_size": 5238,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_cheatsheets": {
-      "checksum": "69722ec3819809da45b8e773f321feeacc68a10d71dff0a8a91c7e8542a238b1",
-      "created_at": "2025-06-29T00:33:15.730334",
+      "checksum": "8bb91aa5451c95a63ef9ed81d6524eaeafb8e8b9d1083a5f1b066778ba169d63",
+      "created_at": "2025-06-29T12:09:25.132956",
       "document_id": "hellholt_cheatsheets",
       "file": "github/repos/hellholt_cheatsheets.emb.gz",
-      "file_size": 2905,
+      "file_size": 5241,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_dotfiles": {
-      "checksum": "1d9993811bbda99961350ae9f12d88760853742d58b54d3550b2d7c34609445a",
-      "created_at": "2025-06-29T00:32:49.352997",
+      "checksum": "ac1cb95fe5fc8c6349b07edc21ac60add78f109f8403165a2fcf1f609c67d2e1",
+      "created_at": "2025-06-29T12:09:19.718730",
       "document_id": "hellholt_dotfiles",
       "file": "github/repos/hellholt_dotfiles.emb.gz",
-      "file_size": 2914,
+      "file_size": 5265,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_goals": {
-      "checksum": "83a17595d8fa4c744364f3304e5e828e2a09393277a01f375373a7427c4ca090",
-      "created_at": "2025-06-29T00:32:34.895019",
+      "checksum": "7c6d807f12650f68feb6a7865af6c073645fc71184b7262f7af96713ebc3e869",
+      "created_at": "2025-06-29T12:09:08.682913",
       "document_id": "hellholt_goals",
       "file": "github/repos/hellholt_goals.emb.gz",
-      "file_size": 2914,
+      "file_size": 5278,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_ideas": {
-      "checksum": "c55f271a3a7d72736269302ec3cb10d8773a5672d04712b5993380463355ed60",
-      "created_at": "2025-06-29T00:32:26.593522",
+      "checksum": "4efda86037d1cf8fdd9b27bd749d5bfdc8705e756c99522760d94813c2b43791",
+      "created_at": "2025-06-29T12:09:07.419273",
       "document_id": "hellholt_ideas",
       "file": "github/repos/hellholt_ideas.emb.gz",
-      "file_size": 2918,
+      "file_size": 5225,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_phd_ideas": {
-      "checksum": "11a075feb09aa9a7f49c3b408f85c9e85e72a1d8dd2473516393e60388fa4cce",
-      "created_at": "2025-06-29T00:32:38.180953",
+      "checksum": "fd1bf6268d39a1a8e0955c90178e1a53ba74c8ab9d5cea19a50f24803e5ff11f",
+      "created_at": "2025-06-29T12:09:11.481708",
       "document_id": "hellholt_phd_ideas",
       "file": "github/repos/hellholt_phd_ideas.emb.gz",
-      "file_size": 2903,
+      "file_size": 5186,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_pinkmaiden": {
-      "checksum": "168cafb1b6292ce8a60e11b77421708df214993c8019e57f92fbfb6bacaf82bc",
-      "created_at": "2025-06-29T00:33:19.095457",
+      "checksum": "d7399d8e9e1ac94f6304720a187a3818b974380975fff6210678595ba508bad2",
+      "created_at": "2025-06-29T12:09:25.777963",
       "document_id": "hellholt_pinkmaiden",
       "file": "github/repos/hellholt_pinkmaiden.emb.gz",
-      "file_size": 2897,
+      "file_size": 5261,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_podcasts": {
-      "checksum": "dc4f29f309671acdacc699ab36df41d45f0c314462bbc46c2d9fdad46536d77d",
-      "created_at": "2025-06-29T00:32:45.639127",
+      "checksum": "a1b1d85ace6643aef07019d6f32b35584ba34cf022d33602cbd4c2689e2ed7e4",
+      "created_at": "2025-06-29T12:09:13.232373",
       "document_id": "hellholt_podcasts",
       "file": "github/repos/hellholt_podcasts.emb.gz",
-      "file_size": 2915,
+      "file_size": 5233,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_projects": {
-      "checksum": "2d5e941a6f2983cca993c615aa187d4546e9bac17befd177bd9a283e63d1701a",
-      "created_at": "2025-06-29T00:32:53.616576",
+      "checksum": "3af19f4e4b1c4c54d43a0ec1a7927ed52a92c8322dca298352e3249d04470016",
+      "created_at": "2025-06-29T12:09:20.136755",
       "document_id": "hellholt_projects",
       "file": "github/repos/hellholt_projects.emb.gz",
-      "file_size": 2909,
+      "file_size": 5242,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_sillicoin_valley_tycoon": {
-      "checksum": "6195df136b6f2de54d56f295ac398f45e75a6572abacb0d65165a6cbeb0f75c6",
-      "created_at": "2025-06-29T00:33:08.680667",
+      "checksum": "5bae529ce7da08b9229a4f038f7feaccd4319803bf60a25945005deca2b8ca0b",
+      "created_at": "2025-06-29T12:09:23.107859",
       "document_id": "hellholt_sillicoin_valley_tycoon",
       "file": "github/repos/hellholt_sillicoin_valley_tycoon.emb.gz",
-      "file_size": 2921,
+      "file_size": 5123,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_terraform": {
-      "checksum": "b47f136728193a993c5701ca24186c55216ce6b09d52c467ea9e3a87baaabdef",
-      "created_at": "2025-06-29T00:32:57.340334",
+      "checksum": "0667409bf14d312c6a64251a2a75716a7ad31f7f0d8849d0a4c794f51fdbc392",
+      "created_at": "2025-06-29T12:09:20.776090",
       "document_id": "hellholt_terraform",
       "file": "github/repos/hellholt_terraform.emb.gz",
-      "file_size": 2910,
+      "file_size": 5219,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_todo": {
-      "checksum": "748b3a48be41f7e329928552b8c678758377724287d98dd53437c932ef915453",
-      "created_at": "2025-06-29T00:32:30.288200",
+      "checksum": "328e0d38ad5db0cb130ffa195574268b92231e76a0c30603eaab0ee3964610d3",
+      "created_at": "2025-06-29T12:09:07.843940",
       "document_id": "hellholt_todo",
       "file": "github/repos/hellholt_todo.emb.gz",
-      "file_size": 2915,
+      "file_size": 5185,
       "store_type": "github.repos"
     },
     "github.repos.hellholt_youtube": {
-      "checksum": "9c75af59df7d42977f7d444c5dcc0a2ffc9470d5ed4c8ea1a4013d50f1f289d0",
-      "created_at": "2025-06-29T00:33:12.109745",
+      "checksum": "3fbb0ae6ea954a5559bdd6bfe8ad4f6d41317c26a84daaef4954ce4f5d59a577",
+      "created_at": "2025-06-29T12:09:23.517441",
       "document_id": "hellholt_youtube",
       "file": "github/repos/hellholt_youtube.emb.gz",
-      "file_size": 2911,
+      "file_size": 5243,
       "store_type": "github.repos"
     },
     "notes.github_integration": {
-      "checksum": "1737c872fe5a98edc98bd5c230bfdb4f8de6613dc7b7f3dd7a808a623ed7cc54",
-      "created_at": "2025-06-28T21:33:50.018633",
+      "checksum": "f1a12efb4ac4b401088f64d64acb811938d176a2e1353da86541f16c9d21fd47",
+      "created_at": "2025-06-29T12:09:26.161135",
       "document_id": "github_integration",
       "file": "notes/github_integration.emb.gz",
-      "file_size": 2929,
+      "file_size": 5238,
       "store_type": "notes"
     },
     "notes.notes.github_integration.section1": {
-      "checksum": "1c15d98491b872d5ff3c6bb922280fc1305374d0e5a1053f94d4da9aa8ab1c58",
-      "created_at": "2025-06-29T01:09:44.631803",
+      "checksum": "5f5661ffd4970c6cfdb39e7d1a246e42cffcd2288f959d1f93f71983cd8f8b5a",
+      "created_at": "2025-06-29T12:09:26.317634",
       "document_id": "notes.github_integration.section1",
       "file": "notes/notes.github_integration.section1.emb.gz",
-      "file_size": 2912,
+      "file_size": 5251,
       "store_type": "notes"
     },
     "notes.notes.github_integration.section2": {
-      "checksum": "0a7c17e13bc082928c6381d764bb0de0d1ab148429c8c404d65540c3b1c76080",
-      "created_at": "2025-06-29T01:09:44.632488",
+      "checksum": "0b0a76179e05fa401ba6541c5cf78093b05df9d6ad9a0e0d7e4c149f0cab31ac",
+      "created_at": "2025-06-29T12:09:26.320496",
       "document_id": "notes.github_integration.section2",
       "file": "notes/notes.github_integration.section2.emb.gz",
-      "file_size": 2921,
+      "file_size": 5262,
       "store_type": "notes"
     },
     "notes.notes.github_integration.section3": {
-      "checksum": "20ba5eb4484da6045bb99b9aa0e182f39358bafa85c04d0794e60ce377733443",
-      "created_at": "2025-06-29T01:09:44.633620",
+      "checksum": "36fa5b5a2128e668fe5d5b7fa00ba901c9aec0580e9ffcbb425d9081c66832f4",
+      "created_at": "2025-06-29T12:09:26.323220",
       "document_id": "notes.github_integration.section3",
       "file": "notes/notes.github_integration.section3.emb.gz",
-      "file_size": 2912,
+      "file_size": 5233,
       "store_type": "notes"
     },
     "notes.notes.github_integration.section4": {
-      "checksum": "4b94e1080a167354c3a2121a069fd7e2074505007bad9e56ca23554958d6a227",
-      "created_at": "2025-06-29T01:09:44.634669",
+      "checksum": "f2cf5e1d27048f7f36a2f6626b1dafeffad5596469eb4a4fbfe8be1f7e06a471",
+      "created_at": "2025-06-29T12:09:26.326391",
       "document_id": "notes.github_integration.section4",
       "file": "notes/notes.github_integration.section4.emb.gz",
-      "file_size": 2914,
+      "file_size": 5251,
       "store_type": "notes"
-    },
-    "test_store.test_doc": {
-      "checksum": "907739b2e1038451e8369744dc2e80130dfd0658fa84586392896a211ab07a9e",
-      "created_at": "2025-06-29T00:25:52.490577",
-      "document_id": "test_doc",
-      "file": "test_store/test_doc.emb.gz",
-      "file_size": 2815,
-      "store_type": "test_store"
     }
   },
   "model": "claude-semantic-features",
